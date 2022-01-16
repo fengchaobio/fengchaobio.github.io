@@ -1,5 +1,4 @@
 # Principal Investigator
-**Cao Yuan**
 
 ---
 
